@@ -1,0 +1,3 @@
+Four_5在idea里面窗口乱码，转为ANSI文件为f.java
+Four_2代表第二题
+Four_5和f代表第五题

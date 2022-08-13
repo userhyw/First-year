@@ -1,0 +1,23 @@
+Graph
+UDG
+A B C D E F G H I J K
+A B
+A C
+A D
+B A
+B E
+B F
+C A
+C G
+D A
+D H
+D I
+D J
+E B
+E K
+F B
+G C
+H D
+I D
+J D
+K E

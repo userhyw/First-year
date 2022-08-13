@@ -1,0 +1,28 @@
+Graph
+UDG
+A B C D E F G H I J K L M N
+A B
+A C
+A D
+A E
+B A
+C A
+C F
+C G
+D A
+E A
+E H
+E I
+E J
+F C
+G C
+H E
+I E
+J E
+//第二连通分量（第二棵树）
+K L
+K M
+L K
+M K
+M N
+N M

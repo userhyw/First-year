@@ -1,0 +1,12 @@
+Graph
+DN
+a b c d e f
+a b 30
+a d 10
+b c 15
+b f 6
+d b 15
+d c 7
+e b 5
+e f 4
+f c 6

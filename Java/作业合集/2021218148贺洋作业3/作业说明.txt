@@ -1,0 +1,6 @@
+使用编译器：IntelliJ IDEA 2021.3.2
+使用jdk ：jdk-17；
+
+在scr文件中，Three0306为第六题
+Three0307_1 与 Three0307_2均为第气体，实现方法不同，Three0307_2学习室友方法
+Three0307为实验，作废

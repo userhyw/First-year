@@ -1,0 +1,21 @@
+Graph
+UDG
+a b c d e f g h
+a b
+a c
+b a
+b d
+b e
+c a
+c g
+c h
+d b
+d f
+e b
+e f
+f d
+f e
+g c
+g h
+h c
+h g
